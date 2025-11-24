@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Auto Celebrity Interceptor - ORION COMMANDER VMAX
+// @name         Auto Celebrity Interceptor - PinG ORION COMMANDER VMAX
 // @namespace    http://tampermonkey.net/
 // @version      VMAX
 // @description  VMAX: Live Stats Engine (Real-time Sync), Smart Update Notification, Safety Mode, and UI Enhancements.
