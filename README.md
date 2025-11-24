@@ -136,7 +136,7 @@ Dự án phát triển dựa trên cộng đồng. Mọi đóng góp của bạn
     <td width="50%" valign="top" align="center" style="border:0; padding: 10px;">
       <h3 style="margin-top: 10px;">BÁO CÁO LỖI (ISSUES)</h3>
       <p>Gặp lỗi? Hãy chụp màn hình và tạo một <strong>Issue</strong> trên GitHub. Tôi sẽ khắc phục ngay lập tức.</p>
-      <a href="https://github.com/Pinnnndz/locket-autocelebrity-vmax/issues" style="text-decoration:none;">
+      <a href="https://github.com/Pinnnndz/locket-autocelebrity-v5/issues" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/BÁO CÁO LỖI-TẠO ISSUE MỚI-D73A49?style=for-the-badge&logo=github&logoColor=white" alt="Báo Cáo Lỗi">
       </a>
     </td>
