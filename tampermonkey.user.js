@@ -13,5 +13,5 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @run-at       document-end
-// @icon         https://sf-static.upanhlaylink.com/img/image_20251111ac288b3a07ad34e71f1be21858ab8fe0.jpg
+// @icon         https://sf-static.upanhlaylink.com/img/image_20251124a53c851ee723c755f9e19b8cec568a9e.jpg
 // ==/UserScript==
