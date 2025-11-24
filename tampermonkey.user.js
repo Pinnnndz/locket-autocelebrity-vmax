@@ -1,15 +1,17 @@
 // ==UserScript==
-// @name         Auto Celebrity PinG ORION COMMANDER VMAX
+// @name         Auto Celebrity Interceptor - ORION COMMANDER VMAX
 // @namespace    http://tampermonkey.net/
 // @version      VMAX
 // @description  VMAX: Live Stats Engine (Real-time Sync), Smart Update Notification, Safety Mode, and UI Enhancements.
 // @author       Huu Phuoc
+// @match        https://locket.binhake.dev/celebrity.html
+// @match        https://locket.binhake.dev/settings.html
+// @require      https://unpkg.com/react@18.2.0/umd/react.production.min.js
+// @require      https://unpkg.com/react-dom@18.2.0/umd/react-dom.production.min.js
 // @require      https://raw.githubusercontent.com/Pinnnndz/locket-autocelebrity-vmax/main/auto-celeb.main.js
-// @homepageURL  https://github.com/Pinnnndz/locket-autocelebrity-vmax
-// @downloadURL  https://raw.githubusercontent.com/Pinnnndz/locket-autocelebrity-vmax/main/tampermonkey.user.js
-// @updateURL    https://raw.githubusercontent.com/Pinnnndz/locket-autocelebrity-vmax/main/tampermonkey.user.js
-// @match        https://locket.binhake.dev/*
 // @grant        GM_addStyle
-// @run-at       document-start
-// @icon         https://sf-static.upanhlaylink.com/img/image_20251124cf087c0bcfab084769254be39d343aef.jpg
+// @grant        GM_setValue
+// @grant        GM_getValue
+// @run-at       document-end
+// @icon         https://sf-static.upanhlaylink.com/img/image_20251111ac288b3a07ad34e71f1be21858ab8fe0.jpg
 // ==/UserScript==
